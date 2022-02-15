@@ -12,7 +12,8 @@ body
 
 .header, .footer
     {
-        background:#FF7143 27 %;
+        background: rgba(255, 113, 67, 0.27);
+        ;
         padding: 38px 0 48px;
     }
 
